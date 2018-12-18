@@ -1,5 +1,5 @@
 import hashlib
-
+#### Jeetendra Mandal - Created for developer community to understand the basics of BlockChain development
 class Block:
     def __init__(self, no, nonce, data, hashcode, prev):
         self.no=no
